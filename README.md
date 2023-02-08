@@ -1,4 +1,4 @@
-# fee-movie
+# FEE-movie
 
 Movie Website
 
