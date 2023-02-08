@@ -1,0 +1,9 @@
+myTest
+test.js
+demo
+virtual
+FEE/frontend/node_modules
+.vscode
+*.pyc
+FEE/FEE/settings.py
+**/public/videos
